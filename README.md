@@ -1,2 +1,2 @@
-# simple-quote-page
+# simple_quote_page
 codeberry_bootcamp_training_1
